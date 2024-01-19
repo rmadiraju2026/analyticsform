@@ -1,5 +1,3 @@
-import styles from './Qualitative.module.css'
-
 export default function Qualitative ({ visibleName, internalName}) {
     return (
         <div className={styles.qual}>
