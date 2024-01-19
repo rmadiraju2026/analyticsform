@@ -1,0 +1,22 @@
+*, html, body {
+  margin: 0;
+  padding: 0;
+}
+.matchInfo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.autoNotes, .teleNotes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.stagePossibilities {
+  display: flex;
+  flex-direction: column;
+}
